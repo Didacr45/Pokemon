@@ -32,6 +32,23 @@ body{
 .pokemon-name{
     color:rgb(255, 255, 255);
     padding: 10px;
+}
 
+.pokemon-description{
+    text-align: center;
+    color: rgb(99, 94, 94);
+    font-size:smaller;
     
+}
+
+.pokemon-type{
+    padding: 10px;
+}
+
+.plant{
+    color: green;
+}
+
+.poison{
+    color: blueviolet;
 }
