@@ -11,13 +11,15 @@ body{
     box-shadow: 5px 5px 10px black;
     box-sizing: border-box;
     text-align: center;
+    padding: 15px;
 }
 
 .pokemon-info{
     
     background-color: springgreen;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 40px;
+    padding: 25px;
+    max-width: 430px;
 }
 
 .pokemon-image{
